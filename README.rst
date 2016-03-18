@@ -29,8 +29,7 @@ As an example dataset for input 1, you can use a list of human proteins, identif
 Citation
 ========
 
-If you use this workflow directly, or a derivative of it, or the associated
-NCBI BLAST wrappers for Galaxy, in work leading to a scientific publication,
+If you use this workflow directly, or a derivative of it, in work leading to a scientific publication,
 please cite:
 
 Sigloch, FC, Knopf, JD, Weisser, J, Gomez-Auli, A, Biniossek, ML, and Schilling, O, Proteomic analysis of silenced cathepsin B expression suggests non-proteolytic cathepsin B functionality, BBA Mol.Cell., submitted
