@@ -7,9 +7,7 @@ This approach combines Gene Ontology (GO) annotation and WoLF PSORT [1] localiza
 
 
 [1] P. Horton, K.J. Park, T. Obayashi, N. Fujita, H. Harada, C.J. Adams-Collier, et al., WoLF PSORT: Protein localization predictor, Nucleic Acids Res. 35 (2007) 585–587. doi:10.1093/nar/gkm259.
-
 [2] B. Schröder, C. Wrocklage, A. Hasilik, P. Saftig, The proteome of lysosomes., Proteomics. 10 (2010) 4053–76. doi:10.1002/pmic.201000196.
-
 [3] J. Reiser, B. Adair, T. Reinheckel, Specialized roles for cysteine cathepsins in health and disease, J. Clin. Invest. 120 (2010) 3421–3431. doi:10.1172/JCI42918.
 
 Input Data
@@ -21,10 +19,10 @@ The workflow needs three input files:
   2) The complete uniprot GO database for the organism of interest.
   3) The complete GO Open Biomedical Ontology (OBO), i.e. "GO term tree", accessible at http://purl.obolibrary.org/obo/go/go.obo.
 
-Sample Data
-===========
+Example Dataset
+===============
 
-As an example, we will use a list of human proteins, identified by LC-MS/MS in the cellular supernatant of MDA-MB-231 cells.
+As an example dataset for input 1, you can use a list of human proteins, identified by LC-MS/MS in the cellular supernatant of MDA-MB-231 cells.
 
 * `MDA-MB-231_sample_proteins <https://github.com/Stortebecker/secretome_prediction/blob/master/MDA-MB-231_sample_proteins.tabular>`_
 
