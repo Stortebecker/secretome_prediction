@@ -34,7 +34,7 @@ Citation
 If you use this workflow directly, or a derivative of it, in work leading to a scientific publication,
 please cite:
 
-Sigloch, FC, Knopf, JD, Weisser, J, Gomez-Auli, A, Biniossek, ML, and Schilling, O, Proteomic analysis of silenced cathepsin B expression suggests non-proteolytic cathepsin B functionality, BBA Mol.Cell., submitted
+F.C. Sigloch, J.D. Knopf, J. Weißer, A. Gomez-Auli, M.L. Biniossek, A. Petrera, et al., Proteomic analysis of silenced cathepsin B expression suggests non-proteolytic cathepsin B functionality, Biochim. Biophys. Acta - Mol. Cell Res. 1863 (2016) 2700–2709. doi:10.1016/j.bbamcr.2016.08.005. https://www.ncbi.nlm.nih.gov/pubmed/27526672
 
 Licence (MIT)
 =============
